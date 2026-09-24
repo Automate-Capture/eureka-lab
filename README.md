@@ -7,10 +7,10 @@
 <p align="center"><strong>Budget‑aware sandbox for autonomous scientific discovery with provenance.</strong></p>
 
 <p align="center">
-  <a href="https://github.com/Lumi-node/eureka-lab"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub"></a>
-  <a href="https://github.com/Lumi-node/eureka-lab/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
-  <a href="https://github.com/Lumi-node/eureka-lab/actions"><img src="https://img.shields.io/badge/tests-14-success.svg" alt="Tests"></a>
-  <a href="https://lumi-node.github.io/eureka-lab/"><img src="https://img.shields.io/badge/docs-online-blue.svg" alt="Docs"></a>
+  <a href="https://github.com/Automate-Capture/eureka-lab"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub"></a>
+  <a href="https://github.com/Automate-Capture/eureka-lab/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
+  <a href="https://github.com/Automate-Capture/eureka-lab/actions"><img src="https://img.shields.io/badge/tests-14-success.svg" alt="Tests"></a>
+  <a href="https://automate-capture.github.io/eureka-lab/"><img src="https://img.shields.io/badge/docs-online-blue.svg" alt="Docs"></a>
 </p>
 
 ---
@@ -20,13 +20,13 @@ EurekaLab (`sandbox_science`) wraps untrusted, agent‑generated code in a budge
 ## Installation
 
 ```bash
-pip install git+https://github.com/Lumi-node/eureka-lab.git
+pip install git+https://github.com/Automate-Capture/eureka-lab.git
 ```
 
 Requires Python ≥ 3.10. To work on the project locally:
 
 ```bash
-git clone https://github.com/Lumi-node/eureka-lab.git
+git clone https://github.com/Automate-Capture/eureka-lab.git
 cd eureka-lab
 pip install -e ".[dev]"
 pytest -q
@@ -74,7 +74,7 @@ print(result.cost_actual.total_cost)   # measured cost, <= budget
 
 ## Documentation
 
-📖 Full documentation: [https://lumi-node.github.io/eureka-lab/](https://lumi-node.github.io/eureka-lab/)
+📖 Full documentation: [https://automate-capture.github.io/eureka-lab/](https://automate-capture.github.io/eureka-lab/)
 📄 Technical paper: see [`paper/`](paper/) for the LaTeX source and compiled PDF.
 
 > This is a reference implementation produced by an autonomous research pipeline. It is not published to PyPI; install from source as shown above.

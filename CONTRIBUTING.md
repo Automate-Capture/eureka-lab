@@ -5,7 +5,7 @@ Thank you for your interest in contributing to EurekaLab!
 ## Development Setup
 
 ```bash
-git clone https://github.com/Lumi-node/eureka-lab.git
+git clone https://github.com/Automate-Capture/eureka-lab.git
 cd eureka-lab
 pip install -e ".[dev]"
 ```

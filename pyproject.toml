@@ -40,10 +40,10 @@ docs = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Lumi-node/eureka-lab"
-Documentation = "https://lumi-node.github.io/eureka-lab/"
-Repository = "https://github.com/Lumi-node/eureka-lab"
-Issues = "https://github.com/Lumi-node/eureka-lab/issues"
+Homepage = "https://github.com/Automate-Capture/eureka-lab"
+Documentation = "https://automate-capture.github.io/eureka-lab/"
+Repository = "https://github.com/Automate-Capture/eureka-lab"
+Issues = "https://github.com/Automate-Capture/eureka-lab/issues"
 
 [tool.ruff]
 line-length = 100

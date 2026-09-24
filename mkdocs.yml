@@ -1,10 +1,10 @@
 site_name: EurekaLab
-site_url: https://lumi-node.github.io/eureka-lab/
+site_url: https://automate-capture.github.io/eureka-lab/
 site_description: "Budget‑aware sandbox for autonomous scientific discovery with provenance."
 site_author: Andrew Young
-repo_url: https://github.com/Lumi-node/eureka-lab
-repo_name: Lumi-node/eureka-lab
-edit_uri: edit/main/docs/
+repo_url: https://github.com/Automate-Capture/eureka-lab
+repo_name: Automate-Capture/eureka-lab
+edit_uri: edit/master/docs/
 
 theme:
   name: material
@@ -62,7 +62,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/Lumi-node/eureka-lab
+      link: https://github.com/Automate-Capture/eureka-lab
   generator: false
 
 extra_css:
